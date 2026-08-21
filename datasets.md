@@ -14,10 +14,11 @@ This document is the authoritative registry of public datasets referenced by our
 - **Registry page:** https://huggingface.co/datasets/abisee/cnn_dailymail
 - **Description:** An English-language dataset containing over 300k unique news articles used for summarization research.
 
+> **Attribution**: This dataset is provided by **abisee** under the **apache-2.0** license. Source: https://huggingface.co/datasets/abisee/cnn_dailymail
 
 ## 3. DailyDialog (Multi-turn Dialogue)
 
 - **Registry page:** https://huggingface.co/datasets/li2017dailydialog/daily_dialog
 - **Description:** A high-quality multi-turn dialogue dataset covering various topics about daily life.
 
-> **Attribution**: This dataset is provided by **unknown** under the **mit** license. Source: https://huggingface.co/datasets/li2017dailydialog/daily_dialog
+> **Attribution**: This dataset is provided by **li2017dailydialog** under the **cc-by-nc-sa-4.0** license. Source: https://huggingface.co/datasets/li2017dailydialog/daily_dialog
